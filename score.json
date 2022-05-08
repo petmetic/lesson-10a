@@ -1,0 +1,2 @@
+with open("score.json", "r") as file:
+score_load
